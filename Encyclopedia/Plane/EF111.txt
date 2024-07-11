@@ -1,0 +1,25 @@
+EF-111A
+Plane/EF111.png
+
+Name: EF-111A
+Type: Electronic Warfare
+Crew: 2
+Length: 76 feet (23.17 m)
+Wing span: 63 feet (19.2 m) Unswept
+           32 feet (9.74 m) Swept
+Height: 20 feet (6.1 m)
+Wing area: 657.4 ft^2 (61.07 m^2) Unswept
+           525ft^2 (55.2 m^2) Unswept
+Weight empty: 55,275 lb (25,072 kg)
+Gross Weight: 70,000  lb (31,751 kg)
+Max takeoff weight: 100,000 lb (45360 kg)
+Max landing weight: 83,500 lb (37875 kg)
+G limit: +7.3/-1.5 g
+Max range: 3700 nmi (6852 km)
+Internal Fuel: 33763 lb (15315 kg)
+Service ceiling: 66,000' (20,116 m)
+Thrust Rating (ISA sea level): 17,900 lbf (8119 kgf)
+
+Jamming Frequency Range: 64 MHz - 20 GHz
+
+The General Dynamics–Grumman EF-111A Raven is a retired electronic-warfare aircraft designed to replace the EB-66 Destroyer in the United States Air Force. Its crews and maintainers often called it the "Spark Vark", a play on the F-111's "Aardvark" nickname. The USAF contracted with Grumman in 1974 to convert some existing General Dynamics F-111As into electronic warfare aircraft. The USAF had considered the Navy / Marine Corps Grumman EA-6B Prowler, but desired a penetrating aircraft with supersonic speed. The EF-111 entered service in 1983 and served until its retirement in 1998.

@@ -1,18 +1,18 @@
 livery = {
 	{"Tail",		DIFFUSE				,	"Tail", true};
-	{"Tail",		NORMAL_MAP			,	"Tail_Normal", true};
+	{"Tail",		NORMAL_MAP			,	"ETail_Normal", true};
 	{"Tail",		ROUGHNESS_METALLIC	,	"Tail_RoughMet", true};
 
-	{"Fuselage",	DIFFUSE				,	"Fuselage", true};
-	{"Fuselage",	NORMAL_MAP			,	"Fuselage_Normal", true};
+	{"Fuselage",	DIFFUSE				,	"Fuselage_Cherry_Bomb", false};
+	{"Fuselage",	NORMAL_MAP			,	"EFuselage_Normal", true};
 	{"Fuselage",	ROUGHNESS_METALLIC	,	"Fuselage_RoughMet", true};
 	
-	{"Wing",		DIFFUSE				,	"Wing_429th", false};
-	{"Wing",		NORMAL_MAP			,	"Wing_Normal", true};
+	{"Wing",		DIFFUSE				,	"Wing_Cherry_Bomb", false};
+	{"Wing",		NORMAL_MAP			,	"EWing_Normal", true};
 	{"Wing",		ROUGHNESS_METALLIC	,	"Wing_RoughMet", true};
 	
 	{"Misc",		DIFFUSE				,	"Misc", true};
-	{"Misc",		NORMAL_MAP			,	"Misc_Normal", true};
+	{"Misc",		NORMAL_MAP			,	"EMisc_Normal", true};
 	{"Misc",		ROUGHNESS_METALLIC	,	"Misc_RoughMet", true};
 }
 name = 	"USAF 429th ECS 'Straight Flush'"
